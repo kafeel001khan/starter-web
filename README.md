@@ -11,5 +11,6 @@ Sample website with plenty of files for demos
 ##Deployment
 
 ##How to Contribute
+Please fork this repository.
 
 ## COPYRIGHT
