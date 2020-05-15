@@ -2,9 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+    
+Kafeel khan jkafeel@gmail.com
 # THANKS
 
     <name>
